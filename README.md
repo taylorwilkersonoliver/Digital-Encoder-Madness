@@ -23,7 +23,8 @@ registers a menu move, resets the accumulator on a direction change, and times o
 input.
 
 ## Hardware
-- A **Teensy** (or any board supported by the PJRC Encoder library).
+- A **[Teensy](https://www.pjrc.com/teensy/)** by [PJRC](https://www.pjrc.com/) (or any
+  board supported by the PJRC Encoder library).
 - 2x KY-040 rotary encoders (with push-buttons).
 - 4 indicator LEDs.
 - Optional power-switching on the power pin.
